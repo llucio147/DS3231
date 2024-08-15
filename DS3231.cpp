@@ -10,7 +10,11 @@
   and changed by me (llucio147), 
   the changes in the original library are changing the date and time format to the 
   standard adopted in Brazil, changing the days of the week to Brazilian Portuguese,
-  Brazilian months, year also changed to Brazilian Portuguese
+  Brazilian months, year also changed to Brazilian Portuguese.
+  
+  These files are completely free, and are prohibited for sale, 
+  if you paid for them, ask for your money back...
+  Kind regards DEV llucio147.
 */
 #include "DS3231.h"
 
