@@ -1,5 +1,6 @@
 # DS3231
 Alteração da biblioteca DS3231 para português do Brasil....
+
 Portugues...
 
 Essa Biblioteca foi programada para Arduino inicialmente com data, dias da semana e meses do ano em formato de inglês,
